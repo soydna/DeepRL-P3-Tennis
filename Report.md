@@ -28,5 +28,7 @@ WEIGHT_DECAY = 0.0   # L2 weight decay
 
 
 ## Future Work
+The training is quite unstable investigate methods to acheive greater stability:
 * Try other hyperparameters
 * Try other RL aproaches as A2C and D4PG
+
