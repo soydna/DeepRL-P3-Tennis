@@ -30,4 +30,3 @@ WEIGHT_DECAY = 0.0   # L2 weight decay
 ## Future Work
 * Try other hyperparameters
 * Try other RL aproaches as A2C and D4PG
-* 
